@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="19"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="5326179256529"
+    token="-6203240711427983111"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="11150" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="268" />
+    <task
+        name="verifier"
+        duration="304" />
+
+    <artifact
+        location="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\outputs\apk\TeamCode-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="5326179256529"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\outputs\apk\TeamCode-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
