@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1849,
+                        "endColumn": 58,
+                        "endOffset": 1903
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
@@ -12,6 +36,30 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1849,
+                        "endColumn": 58,
+                        "endOffset": 1903
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,

@@ -1,7 +1,27 @@
 [
     {
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\frickapc\\.android\\build-cache\\353248d8a134e651c11aca2ed6aa758f52bb6116\\output\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "C:\\Users\\frickapc\\.android\\build-cache\\ce48e2b4efdda424e9543272b3ea6f2d0c075a06\\output\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\src\\main\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
         "merged": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
         "source": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\src\\main\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\menu\\menu_server.xml"
     },
     {
         "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
@@ -20,7 +40,11 @@
         "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\menu\\menu_server.xml"
     },
     {
-        "merged": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
-        "source": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\menu\\menu_server.xml"
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\src\\main\\res\\menu\\ftc_robot_controller.xml"
     }
 ]

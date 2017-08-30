@@ -36,7 +36,6 @@ import com.qualcomm.robotcore.eventloop.opmode.OpModeManager;
 import com.qualcomm.robotcore.eventloop.opmode.OpModeRegister;
 import com.qualcomm.robotcore.eventloop.opmode.AnnotatedOpModeRegistrar;
 import org.firstinspires.ftc.robotcontroller.external.samples.ConceptNullOp;
-import org.firstinspires.ftc.robotcontroller.external.samples.K9botTeleopTank_Linear;
 //import org.firstinspires.ftc.robotcontroller.internal.testcode.ArmLauncherTest;
 import org.firstinspires.ftc.robotcontroller.external.samples.SensorAdafruitRGB;
 import org.firstinspires.ftc.robotcontroller.internal.program.BallShootingBlue;
@@ -44,22 +43,23 @@ import org.firstinspires.ftc.robotcontroller.internal.program.BallShootingRed;
 import org.firstinspires.ftc.robotcontroller.internal.program.BlueCloseBeaconV1;
 import org.firstinspires.ftc.robotcontroller.internal.program.BlueBeacon2;
 import org.firstinspires.ftc.robotcontroller.internal.program.BlueFarBeaconV1;
-import org.firstinspires.ftc.robotcontroller.internal.program.BlueCloseBeaconV1;
-import org.firstinspires.ftc.robotcontroller.internal.program.BlueFarBeaconV1;
 import org.firstinspires.ftc.robotcontroller.internal.program.BlueSideBeacon;;
 import org.firstinspires.ftc.robotcontroller.internal.program.BlueWallFollow;
+import org.firstinspires.ftc.robotcontroller.internal.program.CopOp;
+import org.firstinspires.ftc.robotcontroller.internal.program.DrivingChassis;
 import org.firstinspires.ftc.robotcontroller.internal.program.GyroCrap;
+import org.firstinspires.ftc.robotcontroller.internal.program.NewDoubleBeaconProgramThatIsForWinningRegionalsBlue;
+import org.firstinspires.ftc.robotcontroller.internal.program.NewDoubleBeaconProgramThatIsForWinningRegionalsRed;
 import org.firstinspires.ftc.robotcontroller.internal.program.RedCloseBeaconV1;
 import org.firstinspires.ftc.robotcontroller.internal.program.RedBeacon2;
 import org.firstinspires.ftc.robotcontroller.internal.program.RedFarBeaconV1;
-import org.firstinspires.ftc.robotcontroller.internal.program.RedFarBeaconV1;
-import org.firstinspires.ftc.robotcontroller.internal.program.TeleOpV1;
-
+import org.firstinspires.ftc.robotcontroller.internal.program.TeleOpV3;
+import org.firstinspires.ftc.robotcontroller.internal.program.driveOnly;
 import org.firstinspires.ftc.robotcontroller.internal.program.gyroTestV1;
 import org.firstinspires.ftc.robotcontroller.internal.program.gyroTestV2;
+import org.firstinspires.ftc.robotcontroller.internal.program.omnidrive;
 import org.firstinspires.ftc.robotcontroller.internal.program.rgbsensor;
 import org.firstinspires.ftc.robotcontroller.internal.program.DriveBotTank;
-import org.firstinspires.ftc.robotcontroller.internal.program.TeleOpV2;
 import org.firstinspires.ftc.robotcontroller.internal.program.Test;
 import org.firstinspires.ftc.robotcontroller.internal.program.Test2;
 import org.firstinspires.ftc.robotcontroller.internal.program.autonomousV1;
@@ -99,10 +99,13 @@ public class FtcOpModeRegister implements OpModeRegister {
      * @see com.qualcomm.robotcore.eventloop.opmode.Autonomous
      */
     public void register(OpModeManager manager) {
-
+        manager.register("Hello", TeleOpV3.class);
+        manager.register("driveonly", driveOnly.class);
+        //manager.register("CopOp", CopOp.class);
+        //manager.register("TeleOp", CopOp.class);
         //manager.register("k9", K9botTeleopTank_Linear.class);
         //manager.register("DriveBot", DriveBotTank.class);
-        //manager.register("Test", Test.class);
+        manager.register("Test", Test.class);
         //manager.register("Test2", Test2.class);
         //manager.register("ArmLauncher", ArmLauncherTest.class);
         //manager.register("autonomousV1", autonomousV1.class);
@@ -111,24 +114,26 @@ public class FtcOpModeRegister implements OpModeRegister {
         //manager.register("ballarm", ballarm.class);
         //manager.register("SensorRGB", SensorAdafruitRGB.class);
         //manager.register("linefollowingV1", linefollowingV1.class);
-        manager.register("gyroIMU", gyroIMU.class);
+       // manager.register("gyroIMU", gyroIMU.class);
         //manager.register("gyroTestV1", gyroTestV1.class);
         //manager.register("gyroTestV2", gyroTestV2.class);
-        manager.register("rgbsensor", rgbsensor.class);
-        //manager.register("TeleOpV2", TeleOpV2.class);
-        manager.register("TeleOpV1", TeleOpV1.class);
         //manager.register("opticaldistance", opticaldistance.class);
         //manager.register("beaconpusherV1", beaconpusherV1.class);
-        manager.register("ultrasonicSensor", sensorLEGOUltrasonic.class);
-        manager.register("ballBlueshoot", BallShootingBlue.class);
-        manager.register("ballRedshoot", BallShootingRed.class);
-        //manager.register("BlueFarBeacon", BlueFarBeaconV1.class);
-        //.register("RedFarBeacon", RedFarBeaconV1.class);
-        manager.register("BlueCloseBeacon", BlueCloseBeaconV1.class);
-        manager.register("RedCloseBeacon", RedCloseBeaconV1.class);
-        manager.register("gfg", GyroCrap.class);
-        manager.register("BSB", BlueSideBeacon.class);
-        manager.register("BWF", BlueWallFollow.class);
+        //manager.register("ultrasonicSensor", sensorLEGOUltrasonic.class);
+        //manager.register("ballBlueshoot", BallShootingBlue.class);
+        //manager.register("ballRedshoot", BallShootingRed.class);
+//        manager.register("BlueFarBeacon", BlueFarBeaconV1.class);
+//        manager.register("RedFarBeacon", RedFarBeaconV1.class);
+//        manager.register("BlueCloseBeacon", BlueCloseBeaconV1.class);
+//        manager.register("RedCloseBeacon", RedCloseBeaconV1.class);
+        //manager.register("gfg", GyroCrap.class);
+        //manager.register("BSB", BlueSideBeacon.class);
+        //manager.register("BWF", BlueWallFollow.class);
+        manager.register("DC", DrivingChassis.class);
+        //manager.register("BlueDoubleBeacon", NewDoubleBeaconProgramThatIsForWinningRegionalsBlue.class);
+       // manager.register("RedDoubleBeacon", NewDoubleBeaconProgramThatIsForWinningRegionalsRed.class);
+        manager.register("omnidrve", omnidrive.class);
+
         /**
          * Register OpModes implemented in the Blocks visual programming language.
          */

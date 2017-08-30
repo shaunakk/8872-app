@@ -1,12 +1,11 @@
 <component name="libraryTable">
   <library name="Hardware-release-">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/res" />
-      <root url="jar://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1f36681cf02c032da21b45b5c0f9c8f427931bcf/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/1f36681cf02c032da21b45b5c0f9c8f427931bcf/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/libs/Hardware-release-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/libs/Hardware-release-sources.jar!/" />
     </SOURCES>
   </library>

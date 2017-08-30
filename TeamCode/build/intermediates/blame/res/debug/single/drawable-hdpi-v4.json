@@ -1,10 +1,26 @@
 [
     {
+        "merged": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
+        "source": "C:\\Users\\frickapc\\.android\\build-cache\\882f61d16d41e667d5d3905f6b276f2f02724be9\\output\\res\\drawable-hdpi-v4\\button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
         "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\drawable-hdpi-v4\\button_shape.xml"
     },
     {
         "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app-master_2.2\\FtcRobotController\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\exploded-aar\\8872_app\\FtcRobotController\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\drawable-hdpi-v4\\button_shape.xml"
     }
 ]

@@ -26,6 +26,32 @@
         ]
     },
     {
+        "outputFile": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2015
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {
@@ -39,6 +65,32 @@
                 },
                 "from": {
                     "file": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2015
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,

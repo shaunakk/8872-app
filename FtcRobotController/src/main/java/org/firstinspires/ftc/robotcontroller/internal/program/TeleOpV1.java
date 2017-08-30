@@ -159,10 +159,10 @@ public class TeleOpV1 extends LinearOpMode {
             elevMotor.setPower(elevControl);
 
             if (gamepad2.a) {
-                sweeper.setPower(1.0);
+                sweeper.setPower(1.1);
             }
             else if (gamepad2.b) {
-                sweeper.setPower(0.0);
+                sweeper.setPower(-0.1);
             }
             // Send telemetry message to signify robot running;
             //telemetry.addData("claw",  "Offset = %.2f", clawOffset);

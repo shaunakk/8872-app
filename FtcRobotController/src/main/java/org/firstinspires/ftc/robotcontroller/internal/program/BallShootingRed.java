@@ -100,7 +100,8 @@ public class BallShootingRed extends LinearOpMode {
     DeviceInterfaceModule cdim;
     DcMotor leftMotor;
     DcMotor rightMotor;
-
+    Servo ballServo;
+    Servo capServo;
     // we assume that the LED pin of the RGB sensor is connected to
     // digital port 5 (zero indexed).
     static final int LED_CHANNEL = 5;
@@ -175,7 +176,8 @@ public class BallShootingRed extends LinearOpMode {
         launcher = hardwareMap.dcMotor.get("launch");
         launcher.setDirection(DcMotor.Direction.REVERSE);
         elevMotor = hardwareMap.dcMotor.get("elev");
-
+        ballServo = hardwareMap.servo.get("ballServo");
+        capServo = hardwareMap.servo.get("capLock");
 
         beaconPusher = hardwareMap.servo.get("beacon");
         // get a reference to our Light Sensor object.
@@ -205,7 +207,9 @@ public class BallShootingRed extends LinearOpMode {
 
         beaconPusher.setPosition(1.0);
 
+        ballServo.setPosition(0);
 
+        capServo.setPosition(0.5);
         // Wait until we're told to go
         //waitForStart();
 
@@ -229,16 +233,16 @@ public class BallShootingRed extends LinearOpMode {
 
         //beaconPusher.setPosition(0.2);
 
-        sleep(15000);
+        sleep(20000);
 
         sleep(100);
 
-        encoderDrive(FASTER_SPEED, 12, 12, 6.0);
+        encoderDrive(0.3, 20, 20, 6.0);
 
         sleep(100);
 
 
-        encoderDrive(APPROACH_SPEED, -12, 12, 3.0);
+        encoderDrive(0.2, -5, 5, 3.0);
 
         sleep(10);
 
@@ -285,9 +289,21 @@ public class BallShootingRed extends LinearOpMode {
         //imu.startAccelerationIntegration(new Position(), new Velocity(), 1000);
 
 
-        encoderDrive(0.7, 75, 75, 5.0);
-        //Fire 2 balls
+        encoderDrive(0.3, 5, 5, 5.0);
 
+        //launch 2 balls:
+        launcher.setPower(0.8);
+        sleep(1300);
+        launcher.setPower(0);
+        ballServo.setPosition(1.0);
+        sleep(750);
+        ballServo.setPosition(0);
+        sleep(200);
+        launcher.setPower(0.8);
+        sleep(1300);
+        launcher.setPower(0);
+
+        sleep(100);
 
 
 

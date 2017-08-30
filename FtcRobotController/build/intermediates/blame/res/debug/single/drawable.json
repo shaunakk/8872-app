@@ -1,11 +1,15 @@
 [
     {
-        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_robotcontroller.png",
-        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\drawable\\icon_robotcontroller.png"
+        "merged": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shape.xml",
+        "source": "C:\\Users\\frickapc\\.android\\build-cache\\882f61d16d41e667d5d3905f6b276f2f02724be9\\output\\res\\drawable\\button_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu.png",
-        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\drawable\\icon_menu.png"
+        "merged": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu.png",
+        "source": "C:\\Users\\frickapc\\.android\\build-cache\\353248d8a134e651c11aca2ed6aa758f52bb6116\\output\\res\\drawable\\icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\black_border.xml",
+        "source": "C:\\Users\\frickapc\\.android\\build-cache\\ce48e2b4efdda424e9543272b3ea6f2d0c075a06\\output\\res\\drawable\\black_border.xml"
     },
     {
         "merged": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\black_border.xml",
@@ -20,8 +24,24 @@
         "source": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\drawable\\button_shape.xml"
     },
     {
-        "merged": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_robotcontroller.png",
-        "source": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\drawable\\icon_robotcontroller.png"
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_robotcontroller.png",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\drawable\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu.png",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\drawable\\icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu.png",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\drawable\\icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_robotcontroller.png",
+        "source": "C:\\Users\\frickapc\\.android\\build-cache\\353248d8a134e651c11aca2ed6aa758f52bb6116\\output\\res\\drawable\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\black_border.xml",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\drawable\\black_border.xml"
     },
     {
         "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\black_border.xml",
@@ -30,5 +50,17 @@
     {
         "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shape.xml",
         "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_robotcontroller.png",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\drawable\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_robotcontroller.png",
+        "source": "C:\\home\\administrator\\Desktop\\ftc_app-master_2.2\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\drawable\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shape.xml",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\drawable\\button_shape.xml"
     }
 ]

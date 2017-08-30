@@ -1,16 +1,15 @@
 <component name="libraryTable">
   <library name="RobotCore-release-">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/libs/gson-2.7.jar!/" />
-      <root url="jar://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/libs/support-annotations-23.4.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/libs/d2xx.jar!/" />
-      <root url="jar://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/libs/Vuforia.jar!/" />
-      <root url="jar://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/98fa64df1c6ac574137d0ff9a1f13b8f7b3d8d4d/output/jars/libs/support-annotations-23.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/98fa64df1c6ac574137d0ff9a1f13b8f7b3d8d4d/output/jars/libs/d2xx.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/98fa64df1c6ac574137d0ff9a1f13b8f7b3d8d4d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/98fa64df1c6ac574137d0ff9a1f13b8f7b3d8d4d/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/98fa64df1c6ac574137d0ff9a1f13b8f7b3d8d4d/output/jars/libs/gson-2.7.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/98fa64df1c6ac574137d0ff9a1f13b8f7b3d8d4d/output/jars/libs/Vuforia.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/libs/RobotCore-release-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/libs/RobotCore-release-sources.jar!/" />
     </SOURCES>
   </library>

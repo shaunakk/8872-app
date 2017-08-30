@@ -4,11 +4,35 @@
         "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app-master_2.2\\FtcRobotController\\unspecified\\res\\drawable-xhdpi-v4\\icon_robotcontroller.png"
     },
     {
+        "merged": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_robotcontroller.png",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\exploded-aar\\8872_app\\FtcRobotController\\unspecified\\res\\drawable-xhdpi-v4\\icon_robotcontroller.png"
+    },
+    {
         "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app-master_2.2\\FtcRobotController\\unspecified\\res\\drawable-xhdpi-v4\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_menu.png",
         "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\ftc_app-master_2.2\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app-master_2.2\\FtcRobotController\\unspecified\\res\\drawable-xhdpi-v4\\icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\exploded-aar\\8872_app\\FtcRobotController\\unspecified\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_robotcontroller.png",
+        "source": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_menu.png",
+        "source": "C:\\Users\\frickapc\\Desktop\\Ftc Programs 2016\\8872_app\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_menu.png",
+        "source": "C:\\Users\\Robot\\Desktop\\Ftc Programs 2016\\8872_app\\TeamCode\\build\\intermediates\\exploded-aar\\8872_app\\FtcRobotController\\unspecified\\res\\drawable-xhdpi-v4\\icon_menu.png"
     }
 ]

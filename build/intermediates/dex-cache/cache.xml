@@ -3,228 +3,120 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\libs\Vuforia.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="ca5be875a082e7b5f0277a0e85564617b181ae76">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\Vuforia_cc51f08923c9129e8bc3710ada4563bb24e2940b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\libs\gson-2.7.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="f8bcd8ef93636064d155d8e8ea6541ea7e4280d0">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\gson-2.7_cc10f160b8af99f345c6e7863df2bc28ead17a57.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\libs\support-annotations-23.4.0.jar"
+        jar="C:\Users\frickapc\.android\build-cache\3820c91eded0504567699ac3f9a2c9af9e568b40\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="21.1.2"
-        sha1="15632afee8c14c7c0ba7168d25710c38badee7c8">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_78207bd853b9168eef7636f3744560cbd0b04f21.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\Blocks-release\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="c5216545889f13d4560613d35d498b2ca2db1d1f">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-Blocks-release_46eef6319c8af14fa6153096b3d290b300638f8e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="2a24cdb4bd53ff8f890698775608b84ab6703fe2">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-RobotCore-release_3f509e9f357b0ba21df18655586ac92de8093e99.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\libs\support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="15632afee8c14c7c0ba7168d25710c38badee7c8">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_78207bd853b9168eef7636f3744560cbd0b04f21.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="ec068454985de756c760317d9c63c23b3ce2055c">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-FtcCommon-release_f03e8be7c7d7b4a98c42baa2d385ac164260c439.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\Blocks-release\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="c5216545889f13d4560613d35d498b2ca2db1d1f">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-Blocks-release_46eef6319c8af14fa6153096b3d290b300638f8e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\libs\gson-2.7.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="f8bcd8ef93636064d155d8e8ea6541ea7e4280d0">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\gson-2.7_cc10f160b8af99f345c6e7863df2bc28ead17a57.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\libs\d2xx.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="a6cc281519866bbb2d0ac480409212d8d9816d18">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\d2xx_55d16ebbfce4d0dab9ee055c890f9b48044c3bb8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-Analytics-release_89787d3276fda70149286cfd0565d9efd7666d0d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-Analytics-release_89787d3276fda70149286cfd0565d9efd7666d0d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
+        revision="25.0.0"
         sha1="01999c87afe3d10ffa06f3efa66f39e61e6aba0c">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-ModernRobotics-release_4eb11d2958fc98273f6291d027011bc7904f3079.jar" />
+        <dex dex="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\TeamCode\build\intermediates\pre-dexed\debug\classes_5c4be9ebc1c8bef22d039268c65c99405c4e6935.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\libs\d2xx.jar"
+        jar="C:\Users\frickapc\.android\build-cache\ce48e2b4efdda424e9543272b3ea6f2d0c075a06\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="21.1.2"
+        revision="25.0.0"
+        sha1="c5216545889f13d4560613d35d498b2ca2db1d1f">
+        <dex dex="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\TeamCode\build\intermediates\pre-dexed\debug\classes_8d91b0e431f741a4ff5d6326ba3a4739e05562e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\frickapc\.android\build-cache\98fa64df1c6ac574137d0ff9a1f13b8f7b3d8d4d\output\jars\libs\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15632afee8c14c7c0ba7168d25710c38badee7c8">
+        <dex dex="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\TeamCode\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_d27fa471dbeda5feb2f1108c0bbd5bd991507312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\frickapc\.android\build-cache\353248d8a134e651c11aca2ed6aa758f52bb6116\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1a3a00c0ec6312741914629ed283101a3301293">
+        <dex dex="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\TeamCode\build\intermediates\pre-dexed\debug\classes_9641ab35a4a8fd2ca8d59f79deb6b06644113bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\frickapc\.android\build-cache\98fa64df1c6ac574137d0ff9a1f13b8f7b3d8d4d\output\jars\libs\d2xx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
         sha1="a6cc281519866bbb2d0ac480409212d8d9816d18">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\d2xx_55d16ebbfce4d0dab9ee055c890f9b48044c3bb8.jar" />
+        <dex dex="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\TeamCode\build\intermediates\pre-dexed\debug\d2xx_2c8c8d5a427751a8be9972ab0818c2db3831a44a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
+        jar="C:\Users\frickapc\.android\build-cache\2e0829a940022ecc7437a6b96db58f74789ae18a\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="21.1.2"
+        revision="25.0.0"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\TeamCode\build\intermediates\pre-dexed\debug\classes_8258e03e989a8994901c8cbfab5c47db900fb6b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\frickapc\.android\build-cache\882f61d16d41e667d5d3905f6b276f2f02724be9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
         sha1="ec068454985de756c760317d9c63c23b3ce2055c">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-FtcCommon-release_f03e8be7c7d7b4a98c42baa2d385ac164260c439.jar" />
+        <dex dex="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\TeamCode\build\intermediates\pre-dexed\debug\classes_948e3e66aab1b0f6fd2518e019ed09cb455e86bc.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\libs\Vuforia.jar"
+        jar="C:\Users\frickapc\.android\build-cache\1f36681cf02c032da21b45b5c0f9c8f427931bcf\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="21.1.2"
+        revision="25.0.0"
+        sha1="4d964a43f48520428edfadad534fa0a3279deb84">
+        <dex dex="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\TeamCode\build\intermediates\pre-dexed\debug\classes_c7dc31024ce20fcc8471b9a1d8f59e33ca1b2a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\frickapc\.android\build-cache\98fa64df1c6ac574137d0ff9a1f13b8f7b3d8d4d\output\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
         sha1="ca5be875a082e7b5f0277a0e85564617b181ae76">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\Vuforia_cc51f08923c9129e8bc3710ada4563bb24e2940b.jar" />
+        <dex dex="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\TeamCode\build\intermediates\pre-dexed\debug\Vuforia_2deff7b74153426f29414b697dcc52a6aad49680.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="01999c87afe3d10ffa06f3efa66f39e61e6aba0c">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-ModernRobotics-release_4eb11d2958fc98273f6291d027011bc7904f3079.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
+        jar="C:\Users\frickapc\.android\build-cache\98fa64df1c6ac574137d0ff9a1f13b8f7b3d8d4d\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="21.1.2"
-        sha1="4d964a43f48520428edfadad534fa0a3279deb84">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-Hardware-release_cca26d0fe46601d0919bf35828704000c1231dee.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
+        revision="25.0.0"
         sha1="2a24cdb4bd53ff8f890698775608b84ab6703fe2">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-RobotCore-release_3f509e9f357b0ba21df18655586ac92de8093e99.jar" />
+        <dex dex="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\TeamCode\build\intermediates\pre-dexed\debug\classes_098dc54a7d1b8967f1ac076ceb70e98121e2884d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
+        jar="C:\Users\frickapc\.android\build-cache\c17d9c4c5388bfa40448e27d2c1f270561327499\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="21.1.2"
-        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-WirelessP2p-release_c47d1bf5c62f163096fd8627214af5c1e655f4b0.jar" />
+        revision="25.0.0"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\TeamCode\build\intermediates\pre-dexed\debug\classes_aede292b6f0df542d1d48b1a9c9549f3ccb00dc2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="4d964a43f48520428edfadad534fa0a3279deb84">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-Hardware-release_cca26d0fe46601d0919bf35828704000c1231dee.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\ftc_app-master_2.2\FtcRobotController\unspecified\jars\classes.jar"
+        jar="C:\Users\frickapc\.android\build-cache\98fa64df1c6ac574137d0ff9a1f13b8f7b3d8d4d\output\jars\libs\gson-2.7.jar"
         jumboMode="false"
         optimize="true"
-        revision="21.1.2"
-        sha1="a9bd23149e05d6f0060249fd6b88fcb6db9c082e">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\ftc_app-master_2.2-FtcRobotController-unspecified_216ab49e1acb8207652be5c9e2de55bbda0c392b.jar" />
+        revision="25.0.0"
+        sha1="f8bcd8ef93636064d155d8e8ea6541ea7e4280d0">
+        <dex dex="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\TeamCode\build\intermediates\pre-dexed\debug\gson-2.7_b6ea8a41b12d4cdd3cc054c01868dd7b8f9c805e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-WirelessP2p-release_c47d1bf5c62f163096fd8627214af5c1e655f4b0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\Inspection-release\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="b1a3a00c0ec6312741914629ed283101a3301293">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-Inspection-release_19761c2e430de5f3974fb69496d843dd3d228833.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\exploded-aar\Inspection-release\jars\classes.jar"
+        jar="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\FtcRobotController\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="21.1.2"
-        sha1="b1a3a00c0ec6312741914629ed283101a3301293">
-        <dex dex="C:\Users\Robot\Desktop\Ftc Programs 2016\ftc_app-master_2.2\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-Inspection-release_19761c2e430de5f3974fb69496d843dd3d228833.jar" />
+        revision="25.0.0"
+        sha1="7e9672103f6e004367e0d102da88777b4191af40">
+        <dex dex="C:\Users\frickapc\Desktop\Ftc Programs 2016\8872_app\TeamCode\build\intermediates\pre-dexed\debug\classes_3e9e76fe636cf3a37eec19be53cb660a503b0246.jar" />
     </item>
 
 </items>
